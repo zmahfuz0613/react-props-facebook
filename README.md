@@ -14,10 +14,10 @@ In this lab, you'll be creating a Facebook timeline with multiple statuses, but 
 
 ![](img/statuses.png)
 
-  1. Make the status text into a `prop`. Pass different status text to each of your status.
-  1. Make the profile pic into a `prop`. Pass different profile pic links to each of your status. You can just pull an image from the internet!
-  1. Make the username into a `prop`. Pass different usernames text to each of your status.
-  1. Make the post date into a `prop`. Pass different dates text to each of your status.
+  1. Make the status text into a `prop`. Pass different status text to each of your statuses.
+  1. Make the profile pic into a `prop`. Pass different profile pic links to each of your statuses. You can just pull an image from the internet!
+  1. Make the username into a `prop`. Pass different usernames text to each of your statuses.
+  1. Make the post date into a `prop`. Pass different dates text to each of your statuses.
 
 🙌🏻 Awesome! Now you should have a timeline that renders three different statuses made by three different users at different times!
 
