@@ -26,3 +26,6 @@ In this lab, you'll be creating a Facebook timeline with multiple statuses, but 
 1. Break down the status component into more subcomponents, for example a `UserInfo` component, a `StatusText` component, and a `ReactionBar` component.
 1. Create a `Header` component that looks like Facebook's nav bar.
 1. Look into [conditional rendering](https://reactjs.org/docs/conditional-rendering.html) and add a `read more` button if the status is over 200 characters long.
+
+
+<!-- Homework  -->
